@@ -1,4 +1,4 @@
-# Modelos de Caja Negra para el Estudio de Series Temporales
+# Modelos de Caja Negra 
 
 ## 1. Neural Prophet - [Resultado 1](https://github.com/JJ-team-2021/Modelos-de-Caja-Negra/tree/main/Resultado_1) 
 El primer resultado se realizo con Neural Prophet, esta sencilles mantiene las características en la sencillez de 
