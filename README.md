@@ -1,4 +1,4 @@
-## 1. Neural Prophet - [Resultado 1](https://www.youtube.com/watch?v=SgQ5mO5fwqI) 
+## 1. Neural Prophet - [Resultado 1](https://github.com/JJ-team-2021/Modelos-de-Caja-Negra/tree/main/Resultado_1) 
 El primer resultado se realizo con Neural Prophet, esta sencilles mantiene las características en la sencillez de 
 uso de Prophet y, a su vez, añade las ventajas que poseen las redes neuronales. Cabe destacar que aunque tiene rasgos que
 muestran su gran potencial, fue lanzada en octubre de 2020 y está aún en fase beta, por lo que carece de ciertas singularidades
