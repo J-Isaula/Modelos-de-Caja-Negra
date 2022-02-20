@@ -10,5 +10,5 @@ En primera instancia, se introducen los datos de incidencia acumulada diarios, d
 aproximadamente en un 90% para el entrenamiento, y un 10% para la validación. Además, se ha establecido el valor de epochs en 200, siendo
 este el número de veces en las que todos los datos de entrenamiento han pasado por la red neuronal 
 
-## 2. Red Neuronal Recurrente (RNN)
+## 2. Red Neuronal Recurrente (RNN)- [Resultado 2](https://github.com/JJ-team-2021/Modelos-de-Caja-Negra/tree/main/RNN)
 En este resultado se realiza un ajuste con una red neuronal recurrente sobre los datos (precio) del índice S&P500 de manera diaria desde 1979 - 2008. En total tenemos 7322 datos, donde nuestra red toma como datos de entrenamiento el 70%, 1900 datos para prueba y para nuestra ventana deslizante tomamos 240 datos. Importante mencionar que se ocuparon 500 epochs y 30 capas ocultas con una tasa de aprendizaje de 2%.
