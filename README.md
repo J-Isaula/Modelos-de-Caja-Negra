@@ -11,3 +11,4 @@ aproximadamente en un 90% para el entrenamiento, y un 10% para la validación. A
 este el número de veces en las que todos los datos de entrenamiento han pasado por la red neuronal 
 
 ## 2. Red Neuronal Recurrente (RNN)
+En este resultado se realiza un ajuste con una red neuronal recurrente sobre los datos del indice S&P500 de manera diaria desde 1979 - 2008 
